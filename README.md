@@ -2,4 +2,4 @@
 
 Task - Replicate the homepage of this website: https://nack.life/
 
-# Hosted Link -
+# Hosted Link - https://mrdpkydv.github.io/nacklife_clone/
